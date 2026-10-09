@@ -1,4 +1,4 @@
-# PDRA Prompt Construction
+#  Prompt Construction
 
 This repository provides a lightweight implementation of the prompt-construction procedure described in the accompanying paper. It is designed for transparent safety research and public reproducibility.
 
